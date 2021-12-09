@@ -1,0 +1,64 @@
+chapter 1 :-
+         about c++,
+	 library files,
+	 about iostream,
+	 variables,
+	 data types,
+	 assignment operator,
+	 What is mean functions,
+	 mathematics operator.
+
+chapter 2 :-
+         Brief note about function,
+	 types of function,
+	 parameters and arguments,
+	 what is mean block,
+	 scope,
+	 life time of a variable,
+	 preprocessor,
+	 user-define library file,
+	 what is mean define.
+
+chapter 3 :-
+	 finding the size of data types,
+	 finding the ascii of alphabets,
+	 getline,
+	 enum,
+	 struct,
+	 if statement,
+	 exit,
+	 relational operators.
+
+chapter 4 :-
+	 else if,
+	 logical operators,
+	 loop,
+	 types of loop,
+	 while loop,
+	 do while loop,
+	 for loop,
+	 decrement operator,
+	 increment operator,
+	 pattern.
+
+chapter 5 :-
+	 switch,
+	 goto,
+	 random value,
+	 arrays.
+
+chapter 6 :-
+	 data manupulating,
+	 operaters for string object,
+
+chapter 7 :-
+	 Class and object
+	 multidimensal arrays		 
+
+
+
+
+
+chapter 7 :-	  
+	 multidimensal arrays,
+	 class and object, 
