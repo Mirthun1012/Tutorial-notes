@@ -12,10 +12,3 @@ int divi(int a,int b)// Its for division.
 int sub(int a,int b)// Its for subraction.
 {return a-b;}
 
-int main()
-{
-	multi(1,1);
-	return 0;
-} 
-
-

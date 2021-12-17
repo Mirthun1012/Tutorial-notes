@@ -31,7 +31,7 @@ Based DRY, function is come.
 
 // Scope:
        scope means if we declare a variable in a block, the variable can only be use in that block only,
-	   we cannot use in another block.
+	   we cannot use in another block or outside the block.
        eg:
         {int a;}
 		{cout<<a;}, we cannot.  
@@ -54,7 +54,7 @@ Based DRY, function is come.
 					   in same place. We going to use the user-defined library file,
 					   we want to mention that ' " .h" '.*/ 
 
-#define NaME "mirthun"; // It is used for give a define or constant value to the variable.
+#define NAME "mirthun"; // It is used for give a define or constant value to the variable.
                        // we dont want to mention its data type like int, string, etc.
 
 int getdata() // int is datatype and getdata is function name. Its syntax is ().And dont give a keyword as a name.
